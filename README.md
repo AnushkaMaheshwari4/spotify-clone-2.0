@@ -33,8 +33,6 @@ A modern, responsive, and music-streaming web application built with **React** a
 ---
 
 ## 📂 Folder Structure
-
-```bash
 src/
 ├── assets/           # Images, icons, etc.
 ├── components/       # UI components (SongCard, Player, Sidebar)
@@ -43,8 +41,9 @@ src/
 ├── pages/            # Home.jsx, Search.jsx
 ├── App.jsx
 └── main.jsx
+---
 
-Setup Instructions
+## Setup Instructions
 
 # 1. Clone the repository
 git clone https://github.com/AnushkaMaheshwari4/spotify-clone-2.0
@@ -58,6 +57,8 @@ npm install
 # 4. Start the development server
 npm run dev
 
+---
+
 🔮 Future Improvements
 
  Playlist creation & management
@@ -69,6 +70,8 @@ npm run dev
  Firebase authentication & backend support
 
  Real-time API integration for song search
+
+ ---
 
  🙋‍♀️ About Me
 
