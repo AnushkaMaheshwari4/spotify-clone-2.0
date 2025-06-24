@@ -33,7 +33,8 @@ A modern, responsive, and music-streaming web application built with **React** a
 ---
 
 ## 📂 Folder Structure
-'''bash
+
+```bash
 src/
 ├── assets/           # Images, icons, etc.
 ├── components/       # UI components (SongCard, Player, Sidebar)
